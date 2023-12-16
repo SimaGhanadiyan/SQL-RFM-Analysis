@@ -23,6 +23,6 @@ Utilizes RFM analysis to segment customers based on Recency, Frequency, and Mone
 7. Frequently Sold Together
 Identifies products that are often sold together by examining order numbers and associated product codes.
 
-Readme
+
 The SQL script is well-commented, providing clarity on each section's purpose and the queries performed. The script covers a comprehensive analysis of the sales dataset, from basic inspection to more complex RFM segmentation and product association queries.
 
